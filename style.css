@@ -1,0 +1,39 @@
+h1{
+    color: rgb(206, 199, 213);
+}
+
+.form-control{
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+form{
+    margin: 50px auto;
+    padding: 30px 30px;
+    max-width: 500px;
+    background-color: #f5f2ec;
+    
+    
+}
+
+.form-control input,
+.form-control select,
+.form-control textarea{
+    width: 90%;
+}
+
+
+
+button{
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    background-color: darkgreen;
+    
+}
+
+body{
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
